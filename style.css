@@ -1,5 +1,5 @@
 body {
-	background-color:lightyellow;
+	background-color:lightyellow; margin 1cm 1cm; 
 }
 h1 {
 	color:brown;
@@ -7,7 +7,12 @@ h1 {
 h2 {
 	color:green;
 }
-.fa-accessible-icon{
-    background-color: white;
-    color:aqua;
+header>h1 {
+    text-align: center
+}
+nav>div{
+    text-align: center
+}
+p{
+    text-indent: 20px
 }
