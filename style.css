@@ -1,8 +1,8 @@
 body {
 	background-color:lightyellow; margin 1cm 1cm;padding:0cm 5cm;
     
-    background-image: url(sea4.jpg);
-    background-repeat: no-repeat;
+    background-image: url(yellow%201.jpg);
+    background-repeat:repeat-x;
     background-attachment: fixed;
 }
 section{
@@ -28,11 +28,4 @@ p{
     background-color: lemonchiffon;
     margin: auto
 }
-.left
-{
-    float:left;
-    background-image: url(sea.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed
-    
-}
+
